@@ -1,0 +1,10 @@
+{
+  "name": "recipe-app",
+  "version": "1.0.0",
+  "description": "Recipe app with 100 veg and 100 non-veg recipes, serving scaler, multi-dietary filtering, and Chef AI chatbot",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  }
+}

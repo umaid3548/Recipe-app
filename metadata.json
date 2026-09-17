@@ -1,0 +1,6 @@
+{
+  "name": "Recipe App",
+  "description": "Recipe application featuring 100 vegetarian and 100 non-vegetarian prebuilt recipes, multi-criteria dietary filtering, dynamic serving scaling, and an interactive AI culinary assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
